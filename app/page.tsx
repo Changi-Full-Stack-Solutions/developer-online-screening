@@ -5,7 +5,7 @@ export default function Home() {
     <div>
       <nav>
         <Image
-          src="https://nextjs.org/icons/next.svg"
+          src="/cag-logo.png"
           alt="Next.js logo"
           width={180}
           height={38}
@@ -15,7 +15,7 @@ export default function Home() {
         <p>Options</p>
         <p>Logout</p>
       </nav>
-      <footer>©2024 RPA Lab</footer>
+      <footer>Designed and Built by the RPA Lab</footer>
     </div>
   );
 }
